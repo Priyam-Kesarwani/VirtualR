@@ -11,7 +11,7 @@ The live demo is available here: https://virtual-r-frontend-project.vercel.app/
 ## 🔧 Tech Stack
 
 - **React** (via Vite)
-- **TypeScript**
+- **JavaScript**
 - **Tailwind CSS**
 - **react-scroll** for navigation scrolling
 - **lucide-react** for icons
